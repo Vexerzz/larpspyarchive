@@ -8,6 +8,8 @@ A remote inspection and debugging tool for Roblox. It logs the remote calls a ga
 
 1. Run the loader in your test environment:
 
+credits to the nfpw elseways just change it to my name instead of nfpw
+
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nfpw/LarpSpy/refs/heads/main/larp.lua"))()
 ```
